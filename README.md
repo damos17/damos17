@@ -133,8 +133,8 @@ I'm publishing **sanitized case studies and open-source demos** that demonstrate
 - **[AI Support Agent — Case Study](https://github.com/damos17/ai-support-agent-case-study)**  
   Architecture and technical breakdown of my production support agent.
 
-- **AI Support Triage — Open Demo** *(coming next)*  
-  A runnable public AI-agent demo featuring issue classification, knowledge retrieval, semantic incident detection, and human-in-the-loop escalation.
+- **[AI Support Triage — Runnable Demo](https://github.com/damos17/ai-support-triage-demo)**  
+  Runnable FastAPI demo with synthetic data, SQLite state, incident correlation, audit trail, LLM telemetry, bilingual UI, and human-in-the-loop ticket approval.
 
 ---
 
