@@ -12,7 +12,7 @@ I use **AI-assisted development** extensively. My strength is not writing every 
 
 ## 🚀 Featured Project — AI Support Operations Agent
 
-My main production project is an **autonomous AI agent for technical support operations**.
+My main production project is an **AI agent for technical support operations**.
 
 It started as a personal assistant for categorizing support requests. Then colleagues asked for access.
 
@@ -37,7 +37,7 @@ High-impact actions remain behind **human-in-the-loop approval**.
 
 `Production` · `~100 monitored chats` · `5 users` · `AI Agents` · `Vision AI` · `Jira` · `YouTrack` · `RAG` · `Tool Calling`
 
-> A sanitized architecture case study and runnable public demo are coming next.
+> 📚 **[Read the sanitized architecture case study →](https://github.com/damos17/ai-support-agent-case-study)**
 
 ---
 
@@ -108,8 +108,6 @@ Iteration
 
 I use AI throughout implementation, debugging, research, and iteration.
 
-I don't hide that.
-
 For me, code is a means to build the system — not the end product.
 
 What matters is whether I can take:
@@ -130,12 +128,12 @@ For that reason, the production repositories remain private.
 
 I'm publishing **sanitized case studies and open-source demos** that demonstrate the architecture, engineering decisions, and AI workflows without exposing sensitive systems or data.
 
-### Coming next
+### Public work
 
-- **AI Support Agent — Case Study**  
+- **[AI Support Agent — Case Study](https://github.com/damos17/ai-support-agent-case-study)**  
   Architecture and technical breakdown of my production support agent.
 
-- **AI Support Triage — Open Demo**  
+- **AI Support Triage — Open Demo** *(coming next)*  
   A runnable public AI-agent demo featuring issue classification, knowledge retrieval, semantic incident detection, and human-in-the-loop escalation.
 
 ---
