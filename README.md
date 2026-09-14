@@ -2,6 +2,8 @@
 
 ### AI Automation & Agentic Systems Builder
 
+![AI Agents](https://img.shields.io/badge/AI%20Agents-workflow%20automation-111827?style=flat) ![Python](https://img.shields.io/badge/Python-FastAPI%20%2F%20SQLite-2563eb?style=flat) ![Human in the loop](https://img.shields.io/badge/Human--in--the--loop-approval%20gates-16a34a?style=flat)
+
 I design and ship **AI agents, internal tools, integrations, and business automation systems** — from identifying a workflow worth automating to deploying a working solution into production.
 
 I use **AI-assisted development** extensively. My strength is not writing every line manually; it is understanding the problem, designing the system, connecting the right services, testing the result, and making it work reliably in the real world.
@@ -41,7 +43,7 @@ High-impact actions remain behind **human-in-the-loop approval**.
 
 ### [AI Support Triage — Runnable Demo](https://github.com/damos17/ai-support-triage-demo)
 
-Runnable FastAPI demo with synthetic data, SQLite state, incident correlation, audit trail, LLM telemetry, bilingual EN/RU UI, evaluation metrics, API integration tests, and human-in-the-loop ticket approval.
+Runnable FastAPI demo with synthetic data, SQLite state, incident correlation, audit trail, LLM telemetry, bilingual EN/RU UI, evaluation metrics, API integration tests, XSS escaping checks, manual v0.6 QA, and human-in-the-loop ticket approval.
 
 ### [AI Support Agent — Case Study](https://github.com/damos17/ai-support-agent-case-study)
 
